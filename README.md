@@ -14,7 +14,7 @@ A Spring Boot application that provides an API to fetch GitHub user repositories
 ## Requirements
 
 - Java 21
-- Maven 3.5
+- Spring Boot 3.5
 - Internet connection (to access GitHub API)
 
 ## API Endpoints

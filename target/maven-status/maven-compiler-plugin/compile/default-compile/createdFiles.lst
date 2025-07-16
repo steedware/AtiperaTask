@@ -1,0 +1,12 @@
+org\example\model\GitHubCommit.class
+org\example\model\GitHubRepository.class
+org\example\model\GitHubBranch.class
+org\example\Main.class
+org\example\model\GitHubOwner.class
+org\example\service\GitHubService$UserNotFoundException.class
+org\example\model\BranchInfo.class
+org\example\model\RepositoryResponse.class
+org\example\service\GitHubService.class
+org\example\model\ErrorResponse.class
+org\example\controller\UserController.class
+org\example\service\RepositoryService.class

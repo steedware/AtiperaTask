@@ -83,7 +83,7 @@ The test verifies:
 ## Example Usage
 
 ```bash
-# Get repositories for user 'octocat'
+# Get repositories for user 'steedware'
 curl http://localhost:8080/api/users/steedware/repositories
 
 # Try with non-existing user
